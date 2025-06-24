@@ -1,4 +1,4 @@
-#  Ara: AI-Powered Voice Assistant using Python
+#  Aura: AI-Powered Voice Assistant using Python
 
 **Aura** is a smart, voice-activated virtual assistant built using Python. Think of it as your personal desktop AI — capable of responding to voice commands, answering general questions via GPT, playing music, fetching weather updates, reading the latest news, and opening popular websites. Inspired by virtual assistants like **Alexa**, **Siri**, and **Google Assistant**, Nexa brings AI-powered interaction to your terminal.
 
