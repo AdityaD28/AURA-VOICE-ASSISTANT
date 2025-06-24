@@ -1,0 +1,9 @@
+speechrecognition
+pyttsx3
+gtts
+pygame
+requests
+wikipedia
+fuzzywuzzy
+openai
+python-Levenshtein
